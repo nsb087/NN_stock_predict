@@ -8,7 +8,7 @@ Created on Fri Dec  8 14:54:14 2017
 import pandas_datareader as web   
 import datetime
 import matplotlib.pyplot as plt  
-import get_google_data as gt
+
 
 def GetStockPrice(chosen_stock,start_year,start_month,start_day):
 
@@ -20,7 +20,7 @@ def GetStockPrice(chosen_stock,start_year,start_month,start_day):
     start_day=1
  
 
-    #gt.get_google_data(chosen_stock, 300, 10)
+   
 
 
     start = datetime.datetime(start_year,start_month,start_day)
