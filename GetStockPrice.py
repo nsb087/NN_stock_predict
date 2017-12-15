@@ -2,7 +2,7 @@
 """
 Created on Fri Dec  8 14:54:14 2017
 
-@author: CYBERPOWER
+@author: RABarnes
 """
 
 import pandas_datareader as web   

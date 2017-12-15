@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 14 21:42:57 2017
 
-@author: CYBERPOWER
+@author: RABarnes
 """
 import Stock_API
 
